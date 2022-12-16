@@ -1,0 +1,1 @@
+SELECT * FROM web_mascota_tracker.mascota;
